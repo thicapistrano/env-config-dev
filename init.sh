@@ -66,6 +66,10 @@ sudo chmod +x /usr/local/bin/docker-compose
 docker-compose --version
 echo 'finished install docker-compose'
 
+echo 'isntall tree'
+sudo snap tree
+echo 'finished install tree'
+
 echo 'installing SDKMAN'
 curl -s "https://get.sdkman.io" | bash
 source "$HOME/.sdkman/bin/sdkman-init.sh"
