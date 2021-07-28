@@ -42,9 +42,7 @@ echo 'finished install code'
 echo 'installing extensions'
 code --install-extension eamodio.gitlens
 code --install-extension ms-azuretools.vscode-docker
-code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
-code --install-extension ms-toolsai.jupyter
 code --install-extension vscode-icons-team.vscode-icons
 echo 'finished install extensions' 
 
