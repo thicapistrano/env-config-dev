@@ -23,7 +23,7 @@ Dev-Env uses a number of  projects to work properly:
 Install and configure dependencies.
 
 ```sh
-cd development-environment
+cd env-config-dev
 chmod +x init.sh
 ./init.sh
 ```
