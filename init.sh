@@ -64,21 +64,6 @@ sudo chmod +x /usr/local/bin/docker-compose
 docker-compose --version
 echo 'finished install docker-compose'
 
-echo 'installing SDKMAN'
-curl -s "https://get.sdkman.io" | bash
-source "$HOME/.sdkman/bin/sdkman-init.sh"
-echo sdk version
-echo 'finished install SDKMAN'
-
-echo 'installing Java'
-sdk list java
-sdk install java -y
-echo 'finished install Java'
-
-echo 'installing dbeaver'
-sudo snap install dbeaver-ce
-echo 'finished install dbeaver'
-
-echo 'install intellij'
-sudo curl -L "https://download.jetbrains.com/product?code=IIC&latest&distribution=linux" | sudo tar xvz -C /opt/intellij --strip 1 && /opt/intellij/bin/idea.sh
-echo 'finished install intellij'
+echo 'isntall tree'
+sudo snap tree
+echo 'finished install tree'
