@@ -1,6 +1,6 @@
 # Dev-Env
 
-![Tests](https://github.com/thicapistrano/learn-actions/workflows/learn-github-actions/badge.svg)
+![Tests](https://github.com/thicapistrano/learn-actions/workflows/main/badge.svg)
 
 ## 
 
