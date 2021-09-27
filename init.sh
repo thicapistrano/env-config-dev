@@ -41,9 +41,9 @@ echo 'finished install code'
 
 echo 'installing extensions'
 code --install-extension eamodio.gitlens
-code --install-extension ms-azuretools.vscode-docker
-code --install-extension ms-python.vscode-pylance
-code --install-extension vscode-icons-team.vscode-icons
+# code --install-extension ms-azuretools.vscode-docker
+# code --install-extension ms-python.vscode-pylance
+# code --install-extension vscode-icons-team.vscode-icons
 echo 'finished install extensions' 
 
 echo 'installing docker' 
@@ -75,7 +75,4 @@ sudo apt update
 sudo apt install gh -y
 echo 'finished install github cli'
 
-echo 'finished'
-sudo apt update
-sudo apt upgrade
-echo 'command final'
+echo 'finished script'
