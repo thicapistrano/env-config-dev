@@ -1,5 +1,7 @@
 # Dev-Env
 
+![Tests](https://github.com/thicapistrano/learn-actions/workflows/learn-github-actions/badge.svg)
+
 ## 
 
 script for setting up the development environment.
