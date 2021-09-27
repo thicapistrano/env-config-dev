@@ -1,4 +1,4 @@
-name: Teste Scrit Shell
+name: test-shell
 
 on: 
   push: 

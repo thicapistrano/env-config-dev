@@ -1,6 +1,6 @@
 # Dev-Env
 
-![Tests](https://github.com/thicapistrano/env-config-dev/workflows/main/badge.svg)
+![Tests](https://github.com/thicapistrano/env-config-dev/workflows/test-shell/badge.svg)
 
 ## 
 
